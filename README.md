@@ -5,11 +5,10 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 ## Contributors:
 
 - [Sem-Del](https://github.com/Sem-Del)
-
+- [DukeLut](https://github.com/DukeVZ)
 - [cheese](https://github.com/DeanLemans)
 
 ### Invited:
-- [DukeLut](https://github.com/DukeVZ)
 - [Luuk600](https://github.com/luuk600)
 ## License
 
